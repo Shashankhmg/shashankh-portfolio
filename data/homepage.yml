@@ -7,11 +7,11 @@ showcase:
   title: "Shashankh Mysore Girish"
   subtitle: "Data Scientist"
   description: "I am Data Science enthusiast and with a background in engineering, I am actively shaping the future of engineering solutions through the lens of machine learning and deep learning. Currently advancing my education, I am passionate about the fusion of data science and engineering, aiming to digitalize and enhance traditional approaches. Eager to contribute to the evolving landscape of technology, I am on a journey to leverage data-driven insights for innovative engineering solutions."
-  x: "img/showcase/data-science.gif"
+  x: "img/showcase/MLOps_Kloeckner_Hero_Banner_1920x946.gif"
   _2x: "img/showcase/data-science.gif"
   imageMobile:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/MLOps_Kloeckner_Hero_Banner_1920x946.gif"
+    _2x: "img/showcase/MLOps_Kloeckner_Hero_Banner_1920x946.gif"
 
   button:
     icon: "icon-mail-fill"
