@@ -1,0 +1,294 @@
+head:
+  title: "Shashankh's Data Science Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Shashankh Mysore Girish"
+  subtitle: "Data Scientist"
+  description: "I am Data Science enthusiast and with a background in engineering, I am actively shaping the future of engineering solutions through the lens of machine learning and deep learning. Currently advancing my education, I am passionate about the fusion of data science and engineering, aiming to digitalize and enhance traditional approaches. Eager to contribute to the evolving landscape of technology, I am on a journey to leverage data-driven insights for innovative engineering solutions."
+  x: "img/showcase/data-science.gif"
+  _2x: "img/showcase/data-science.gif"
+  imageMobile:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Shashankh"
+    URL: "mailto:shashankh.m.g.1999@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/shashankhmg/"
+
+    - icon: "github"
+      URL: "https://github.com/Shashankhmg"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <strong>Passionate about digitalizing engineering firms through cutting-edge machine learning and AI solutions. My focus lies in leveraging data science to optimize business processes by deeply understanding workflows, collaborating with stakeholders, and translating challenges into data-driven solutions. I specialize in transforming complex processes into actionable insights that enable informed decision-making and drive business value.
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/shashankhmg/"
+  image:
+    x: "img/who-am-i/PHOTO-2024-06-04-08-10-36.jpg"
+    _2x: "img/who-am-i/PHOTO-2024-06-04-08-10-36.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "I design and implement innovative solutions to optimize workflows and drive decision-making. From building Text-to-SQL systems for seamless database queries to automating CAD dimension detection using machine learning, I specialize in developing data-driven products that enhance productivity and reduce costs for businesses."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "https://drive.google.com/file/d/1MkPofoMzgne_egWg8J5caB-bUEm40KFc/view?usp=sharing"
+
+  items:
+    - title: "Master Thesis Student"
+      company: "Horiba FuelCon Gmbh"
+      duration: "12/2024 - Present"
+
+    - title: "Working Student Data Science"
+      company: "Horiba FuelCon Gmbh"
+      duration: "04/2024 - Present"
+
+    - title: "Working Student Data Analytics"
+      company: "Horiba FuelCon Gmbh"
+      duration: "08/2023 - 03/2024"
+      
+    - title: "Associate SE Analyst"
+      company: "Dell Technologies"
+      duration: "08/2021 - 08/2022"
+
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Otto Von Guericke University"
+      year: "2022-Present"
+      degree: "Master of Digital Engineering"
+
+    - university: "Visvesvaraya Technological University"
+      year: "2017-2024"
+      degree: "Bachelor of Mechanical Engineering"
+      
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/tf.jpg"
+        _2x: "img/clients/tf.jpg"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/tf.jpg"
+        _2x: "img/clients/tf.jpg"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Dimension Detection of CAD Drawings"
+      description: "This project automates the detection and extraction of dimensions from CAD drawings using OCR and computer vision techniques. It is designed to optimize workflows for engineering teams, improving efficiency and reducing manual effort."
+
+
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Github Repo"
+        URL: "https://github.com/Shashankhmg/Dimension-Detection/tree/main"
+      image:
+        x: "img/works/davidproject.png"
+        _2x: "img/works/davidproject.png"
+      is_even: true
+
+    - title: "AI Generated Text Detector"
+      description: "This project leverages advanced natural language processing (NLP) techniques and machine learning models to detect AI-generated text. Designed for research and academic applications, it enhances the ability to differentiate between human-written and machine-generated content, promoting transparency in text-based communications."  
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Github Repo"
+        URL: "https://github.com/Shashankhmg/ai-generated-text-detector"
+      image:
+        x: "img/works/ai.png"
+        _2x: "img/works/ai.png"
+      is_even: false
+      
+    - title: "E-Commerce Website"
+      description: "This project is a comprehensive e-commerce platform built to showcase product catalogs, enable seamless user interactions, and simulate a complete online shopping experience. Integrated with backend support for product management and user authentication, it demonstrates the fundamentals of building scalable web applications."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Github Repo"
+        URL: "https://github.com/Shashankhmg/Ecommerce-webapp/"
+      image:
+        x: "img/works/ecommerce.jpg"
+        _2x: "img/works/ecommerce.jpg"
+      is_even: true
+      
+    - title: "Deep Learning Models"
+      description: "This repository contains implementations of various deep learning models, including CNNs, RNNs, and GANs, applied to tasks such as image classification, natural language processing, and generative modeling. The project demonstrates the application of state-of-the-art techniques to solve real-world challenges using TensorFlow."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Github Repo"
+        URL: "https://github.com/Shashankhmg/Deep-Learning"
+      image:
+        x: "img/works/cnn.jpg"
+        _2x: "img/works/cnn.jpg"
+      is_even: false
+      
+    - title: "Sales Data Analysis"
+      description: "This project focuses on analyzing sales data to uncover trends, patterns, and actionable insights. By leveraging Python libraries such as Pandas and Matplotlib, it demonstrates the use of data visualization and statistical analysis to improve decision-making and optimize sales strategies."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Github Repo"
+        URL: "https://github.com/Shashankhmg/Sales-Data-Analysis-"
+      image:
+        x: "img/works/salesdata.png"
+        _2x: "img/works/salesdata.png"
+      is_even: true
+      
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+  
+    - name: "Justin Kurland, PhD"
+      position: "Lead Data Scientist, Northwestern Mutual"
+      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+      image:
+        x: "img/testimonials/justin.jpg"
+        _2x: "img/testimonials/justin.jpg"
+        
+    - name: "Chris Selig"
+      position: "Data Scientist"
+      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+      image:
+        x: "img/testimonials/chris.jpg"
+        _2x: "img/testimonials/chris.jpg"
+
+    
+
+    - name: "Mohana Krishna Chittoor"
+      position: "Lead Data Scientist, Money View"
+      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+      image:
+        x: "img/testimonials/mohana.jpg"
+        _2x: "img/testimonials/mohana.jpg"
+
+
+achievements:
+  title: "Achievements"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/tf.jpg"
+        _2x: "img/clients/tf.jpg"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/tf.jpg"
+        _2x: "img/clients/tf.jpg"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Unternehmenstipendium"
+      description: "I was awarded the prestigious Unternehmensstipendium from Otto von Guericke University Magdeburg in collaboration with HORIBA FuelCon GmbH for my academic excellence and contributions to engineering and AI solutions. This scholarship recognizes my commitment to innovation and sustainable energy technologies."
+
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Website"
+        URL: "https://www.ovgu.de/Presse+_+Medien/Pressemitteilungen/PM+2024/November/PM+82_2024-p-140766.html"
+      image:
+        x: "img/works/stipendum.jpeg"
+        _2x: "img/works/stipendum.jpeg"
+      is_even: true
+      
+# contact
+contact:
+  enable: true
+  title: "Contact Shashankh"
+    
+  image:
+    x: "img/who-am-i/shashround2.png"
+    _2x: "img/who-am-i/shashround2.png"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:shashankh.m.g.1999@gmail.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "+49 176 5688 7034"
+  email:
+    title: "Email"
+    email: '<a href="mailto:shashankh.m.g.1999@gmail.com">shashankh.m.g.1999@gmail.com</a>'
+  address:
+    title: "Location"
+    address: "Magdeburg, Germany"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
