@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Shashankh Mysore Girish"
   subtitle: "Data Scientist"
-  description: "I am Data Science enthusiast and with a background in engineering, I am actively shaping the future of engineering solutions through the lens of machine learning and deep learning. Currently advancing my education, I am passionate about the fusion of data science and engineering, aiming to digitalize and enhance traditional approaches. Eager to contribute to the evolving landscape of technology, I am on a journey to leverage data-driven insights for innovative engineering solutions."
+  description: "I am a Data Science enthusiast and with a background in engineering, I am actively shaping the future of engineering solutions through the lens of machine learning and deep learning. Currently advancing my education, I am passionate about the fusion of data science and engineering, aiming to digitalize and enhance traditional approaches. Eager to contribute to the evolving landscape of technology, I am on a journey to leverage data-driven insights for innovative engineering solutions."
   x: "img/showcase/MLOps_Kloeckner_Hero_Banner_1920x946.gif"
   _2x: "img/showcase/MLOps_Kloeckner_Hero_Banner_1920x946.gif"
   imageMobile:
@@ -30,7 +30,7 @@ about:
   enable: true
   title: "Who am I?"
   content: 
-    <strong>Passionate about digitalizing engineering firms through cutting-edge machine learning and AI solutions. My focus lies in leveraging data science to optimize business processes by deeply understanding workflows, collaborating with stakeholders, and translating challenges into data-driven solutions. I specialize in transforming complex processes into actionable insights that enable informed decision-making and drive business value.
+    <strong>I am an enthusiastic data professional with a background in engineering, driven by a passion for merging technology with real-world challenges. I enjoy collaborating with stakeholders, transforming business needs into data-driven solutions, and continuously learning to stay at the forefront of AI and machine learning innovations.
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
@@ -81,7 +81,7 @@ education:
       degree: "Master of Digital Engineering"
 
     - university: "Visvesvaraya Technological University"
-      year: "2017-2024"
+      year: "2017-2021"
       degree: "Bachelor of Mechanical Engineering"
       
 
